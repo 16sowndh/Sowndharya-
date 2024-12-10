@@ -19,7 +19,7 @@
             <th><h5>AGE</h5></th>
             <th><h5>dept</h5></th>
             <th><h5>Addr</h5></th>
-            <th><h5>pwd</h5></th>
+            <th><h5>city</h5></th>
         </tr>
         <tr>
             <td>Nisha</td>
