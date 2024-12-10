@@ -17,20 +17,20 @@
             <th>Age</th>
         </tr>
         <tr>
-            <td>Priya</td>
-            <td>Sharma</td>
-            <td>24</td>
+            <td>sowndh</td>
+            <td>D</td>
+            <td>20</td>
         </tr>
         <tr>
-            <td>Arun</td>
-            <td>Singh</td>
-            <td>32</td>
+            <td>Nisha</td>
+            <td>S</td>
+            <td>29</td>
         </tr>
-        <tr>
+       /* <tr>
             <td>Sam</td>
             <td>Watson</td>
             <td>41</td>
-        </tr>
+        </tr>*/
     </table>
 </body>
 </html>
