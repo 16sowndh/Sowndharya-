@@ -15,9 +15,9 @@
           Author Details
       </caption>
   <tr>
-            <th>NAME</th>
-            <th>AGE</th>
-            <th>BRANCH</th>
+            <th><h1>NAME</h1></th>
+            <th><h1>AGE</h1></th>
+            <th><h1>dept</h1></th>
         </tr>
         <tr>
             <td>Nisha</td>
