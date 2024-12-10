@@ -19,21 +19,21 @@
             <th><h5>AGE</h5></th>
             <th><h5>dept</h5></th>
             <th><h5>regno</h5></th>
-            <th><h5>city</h5></th>
+            <th><h5>college</h5></th>
         </tr>
         <tr>
             <td>Nisha</td>
             <td>20</td>
             <td>CS</td>
             <td>E22cs6823</td>
-            <td>Ariyalur</td>
+            <td>kumbakonam</td>
         </tr>
         <tr>
             <td>sowndh</td>
             <td>21</td>
             <td>CS</td>
             <td>E22cs6841</td>
-            <td>jkm</td>
+            <td>Kumbakonam</td>
             </tr>
      </table>
 </body>
