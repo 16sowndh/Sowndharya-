@@ -25,13 +25,17 @@
             <td>Nisha</td>
             <td>20</td>
             <td>CS</td>
+            <td>jkm</td>
+            <td>Ariyalur</td>
         </tr>
         <tr>
             <td>sowndh</td>
             <td>21</td>
             <td>CS</td>
-        </tr>
-    </table>
+            <td>jkm</td>
+            <td>jkm<\td>
+            </tr>
+     </table>
 </body>
  </html>
 
