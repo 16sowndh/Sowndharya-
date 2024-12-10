@@ -12,7 +12,7 @@
   <table border="1"
            bgcolor="green">
         <caption>
-          Author Details
+          <h2> Details</h2>
       </caption>
   <tr>
             <th><h5>NAME</h5></th>
