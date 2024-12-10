@@ -24,13 +24,8 @@
         <tr>
             <td>Nisha</td>
             <td>S</td>
-            <td>29</td>
+            <td>20</td>
         </tr>
-       /* <tr>
-            <td>Sam</td>
-            <td>Watson</td>
-            <td>41</td>
-        </tr>*/
-    </table>
+         </table>
 </body>
 </html>
