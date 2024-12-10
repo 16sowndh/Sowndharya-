@@ -15,7 +15,7 @@
       </caption>
    <section>
     width: 300px;
-    background-color: white;
+    background-color: red;
    </section>
   <tr>
             <th><h5>NAME</h5></th>
