@@ -18,22 +18,22 @@
             <th><h5>NAME</h5></th>
             <th><h5>AGE</h5></th>
             <th><h5>dept</h5></th>
-            <th><h5>Addr</h5></th>
+            <th><h5>regno</h5></th>
             <th><h5>city</h5></th>
         </tr>
         <tr>
             <td>Nisha</td>
             <td>20</td>
             <td>CS</td>
-            <td>jkm</td>
+            <td>E22cs6823</td>
             <td>Ariyalur</td>
         </tr>
         <tr>
             <td>sowndh</td>
             <td>21</td>
             <td>CS</td>
+            <td>E22cs6841</td>
             <td>jkm</td>
-            <td>jkm<\td>
             </tr>
      </table>
 </body>
