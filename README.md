@@ -4,7 +4,7 @@
 <title>Page Title</title>
 </head>
 <body>
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>my detail</h1>
+<p>my self</p>
 </body>
 </html>
