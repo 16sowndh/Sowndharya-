@@ -13,10 +13,6 @@
         <caption>
           <h2> Details</h2>
       </caption>
-   <section>
-    width: 300px;
-    background-color: red;
-   </section>
   <tr>
             <th><h5>NAME</h5></th>
             <th><h5>AGE</h5></th>
