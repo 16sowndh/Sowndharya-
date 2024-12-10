@@ -1,31 +1,39 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <style>
-        table,
-        th,
-        td {
-            border: 1px solid black;
-        }
-    </style>
+ <head>
+    <title>
+        HTML table bgcolor Attribute
+    </title>
 </head>
+ 
 <body>
-    <table style="width:100%">
-        <tr>
-            <th>Firstname</th>
-            <th>Lastname</th>
-            <th>Age</th>
-        </tr>
-        <tr>
-            <td>sowndh</td>
-            <td>D</td>
-            <td>20</td>
+    <h1>GeeksforGeeks</h1>
+  <h2>HTML table bgcolor Attribute</h2>
+  <table border="1"
+           bgcolor="green">
+        <caption>
+          Author Details
+      </caption>
+  <tr>
+            <th>NAME</th>
+            <th>AGE</th>
+            <th>BRANCH</th>
         </tr>
         <tr>
             <td>Nisha</td>
-            <td>S</td>
             <td>20</td>
+            <td>CS</td>
         </tr>
-         </table>
+        <tr>
+            <td>sowndh</td>
+            <td>21</td>
+            <td>CS</td>
+        </tr>
+    </table>
 </body>
-</html>
+ </html>
+
+
+
+
+
