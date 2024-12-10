@@ -1,10 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+    </style>
 </head>
 <body>
-<h1>my detail</h1>
-<p>my self</p>
+    <table style="width:100%">
+        <tr>
+            <th>Firstname</th>
+            <th>Lastname</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>Priya</td>
+            <td>Sharma</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>Arun</td>
+            <td>Singh</td>
+            <td>32</td>
+        </tr>
+        <tr>
+            <td>Sam</td>
+            <td>Watson</td>
+            <td>41</td>
+        </tr>
+    </table>
 </body>
 </html>
